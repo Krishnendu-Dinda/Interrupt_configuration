@@ -5,7 +5,8 @@ In this project  I use  Level-Trigger to generate the interrupt signal and in th
 The Interrupt is the method to indicate the microcontroller by sending an interrupt signal. After receiving an interrupt, the microcontroller interrupts whatever it is doing and serves the device. The program associated with the interrupt is called the interrupt service routine (ISR). When an interrupt is invoked, the microcontroller runs the interrupt service routine. For every interrupt, there is a fixed location set aside to hold the addresses of ISRs.
 <br>
 Six interrupts in the 8051:
-Interrupts Name                                      ROM Location (Hex)    Pin           Flag Clearing
+<br>
+Interrupts Name                               	       ROM Location (Hex)    Pin           Flag Clearing
 <br>
  Reset						                                        0000              9	               AUTO
  <br>
