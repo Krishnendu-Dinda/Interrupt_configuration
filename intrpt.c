@@ -4,7 +4,7 @@ External interrupt 0 (INT0)          0
 Timer interrupt 0    (TFO)	     1
 External interrupt 1 (INT1)          2
 Timer interrupt 1    (TF1) 	     3
-Serial COM interrupt RI and TI)      4	
+Serial COM interrupt (RI and TI)      4	
 */
 
 
